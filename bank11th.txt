@@ -1,0 +1,24 @@
+11. Write a query to display the customer’s number, customer’s firstname, customer’s city 
+    and branch city where the city of the customer and city of the branch is different. 
+	Display the records sorted in ascending order based on customer number.
+	12. Write a query to display the number of clients who have asked for loans 
+       but they don’t have any account in the bank though they are registered customers.
+       Give the count an alias name of Count.
+	13. Write a query to display the customer’s firstname who have multiple accounts 
+      (atleast 2 accounts). Display the records sorted in ascending order based 
+       on customer's firstname.
+    14. Write a query to display the customer’s number, customer’s firstname, branch id 
+    and loan amount for people who have taken loans. Display the records sorted in 
+    ascending order based on customer number and then by branch id and then by loan amount.
+    15. Write a query to display city name and count of branches in that city. 
+    Give the count of branches an alias name of Count_Branch. Display the records 
+     sorted in ascending order based on city name.
+    16. Write a query to display account id, customer’s firstname, customer’s lastname 
+     for the customer’s whose account is Active. Display the records sorted in ascending 
+     order based on account id /account number.
+    17. Write a query to display the customer number , firstname, customer’s date of birth.
+     Display the records sorted in ascending order of date of birth year and within that 
+     sort by firstname in ascending order.
+     18. Write a query to display the customers firstname, city and account number 
+     whose occupation are not into Business, Service or Student. Display the records
+    sorted in ascending order based on customer first name and then by account number.
